@@ -4,7 +4,7 @@ const headerHTML = `
     <nav class="navbar">
         <div class="container nav-content">
             <a href="index.html" class="logo">
-                <img src="https://www.facebook.com/photo/?fbid=133084079475732&locale=pt_PT" alt="Ana Ribeiro">
+                <img src="assets/Logo.jpg" alt="Ana Ribeiro" onerror="this.onerror=null; this.src='https://via.placeholder.com/200x60/FAFCFC/2A4867?text=Ana+Ribeiro';">
             </a>
             <div class="nav-links">
                 <a href="index.html">Início</a>
@@ -24,7 +24,7 @@ const footerHTML = `
             <div class="footer-grid">
                 <div class="anim-fade-up">
                     <a href="index.html" class="logo footer-logo">
-                        <img src="assets/logo.jpg" alt="Ana Ribeiro" onerror="this.onerror=null; this.src='https://via.placeholder.com/200x60/FAFCFC/2A4867?text=Ana+Ribeiro';">
+                        <img src="assets/Logo.jpg" alt="Ana Ribeiro" onerror="this.onerror=null; this.src='https://via.placeholder.com/200x60/FAFCFC/2A4867?text=Ana+Ribeiro';">
                     </a>
                     <p class="mt-3">Ajudamos-te a recuperar a tua melhor versão com acompanhamento premium e próximo.</p>
                 </div>
