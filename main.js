@@ -4,7 +4,7 @@ const headerHTML = `
     <nav class="navbar">
         <div class="container nav-content">
             <a href="index.html" class="logo">
-                <img src="assets/logo.jpg" alt="Ana Ribeiro">
+                <img src="https://www.facebook.com/photo/?fbid=133084079475732&locale=pt_PT" alt="Ana Ribeiro">
             </a>
             <div class="nav-links">
                 <a href="index.html">Início</a>
