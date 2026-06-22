@@ -4,7 +4,7 @@ const headerHTML = `
     <nav class="navbar">
         <div class="container nav-content">
             <a href="index.html" class="logo">
-                <img src="assets/logo.jpg" alt="Ana Ribeiro" onerror="this.onerror=null; this.src='https://via.placeholder.com/200x60/FAFCFC/2A4867?text=Ana+Ribeiro';">
+                <img src="assets/logo.jpg" alt="Ana Ribeiro">
             </a>
             <div class="nav-links">
                 <a href="index.html">Início</a>
